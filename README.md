@@ -1,4 +1,4 @@
-# Copilote Qualité
+# Assistant HACCP
 
 **Retrouver la bonne réponse dans le classeur qualité, en une question.**
 
